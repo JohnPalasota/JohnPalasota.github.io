@@ -1,6 +1,6 @@
 ---
-layout: Inheritance Activity
-title: title name
+layout: post
+title: Inheritence Activity
 ---
 
 Child: Knife
