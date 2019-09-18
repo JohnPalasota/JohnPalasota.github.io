@@ -5,7 +5,9 @@ title: Truth Tables
 
 ## Tautology/True
  a    b   result 
+ 
  ----------------
+ 
  t    f    true   
  f    f    true   
  t    t    true   
@@ -13,7 +15,9 @@ title: Truth Tables
 
 ## Contradiction/False
  a   b   result 
+ 
 -----------------
+
  t  f  false   
  f  f  false   
  t  t  false   
@@ -21,7 +25,9 @@ title: Truth Tables
 
 ## Proposition A
  a b result 
+ 
 -----------------
+
  t  f  true   
  f  f  false  
  t  t  true   
