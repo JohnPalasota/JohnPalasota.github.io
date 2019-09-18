@@ -3,7 +3,7 @@ layout: post
 title: Truth Tables
 ---
 
-## Tautology/True
+## Tautology (True)
  a    b   result 
  
  ----------------
@@ -13,7 +13,7 @@ title: Truth Tables
  t    t    true   
  f    t    true  
 
-## Contradiction/False
+## Contradiction (False)
  a   b   result 
  
 -----------------
@@ -43,7 +43,7 @@ title: Truth Tables
  t  t  true   
  f  t  true   
 
-## Negation of A
+## Negation of A (!a)
  a  b  result 
 
 -----------------
@@ -53,7 +53,7 @@ t  f  false
  t  t  false  
  f  t  true   
 
-## Negation of B
+## Negation of B (!b)
 a  b  result 
 
 -----------------
@@ -63,7 +63,7 @@ t  f  true
  t  t  false  
  f  t  false  
 
-## Conjunction
+## Conjunction (a && b)
  a  b  result 
 
 -----------------
@@ -73,7 +73,7 @@ t  f  false
  t  t  true   
  f  t  false   
 
-## Alternative Denial
+## Alternative Denial (!(a && b))
  a  b  result 
 
 -----------------
@@ -83,7 +83,7 @@ t  f  true
  t  t  false  
  f  t  true   
 
-## Disjunction
+## Disjunction (a || b)
  a  b  result 
 
 -----------------
@@ -93,7 +93,7 @@ t  f  true
  t  t  true   
  f  t  true   
 
-## Join Denial
+## Join Denial (!(a || b))
  a  b  result
 
 -----------------
@@ -103,7 +103,7 @@ t  f  false
  t  t  false  
  f  t  false  
 
-## Material Nonimplication
+## Material Nonimplication (a -/> b)
  a  b  result 
 
 -----------------
@@ -113,7 +113,7 @@ t  f  true
  t  t  false   
  f  t  false   
 
-## Material Implication
+## Material Implication  (a --> b)
  a  b  result 
 
 -----------------
@@ -123,7 +123,7 @@ t  f  false
  t  t  true   
  f  t  true   
 
-## Converse Nonimplication
+## Converse Nonimplication (a </- b)
  a  b  result 
 
 -----------------
@@ -133,7 +133,7 @@ t  f  false
  t  t  false   
  f  t  true   
 
-## Converse Implication
+## Converse Implication (a <-- b)
  a  b  result 
 
 -----------------
@@ -143,7 +143,7 @@ t  f  true
  t  t  true   
  f  t  false  
 
-## Exclusive Disjunction
+## Exclusive Disjunction (a ^ b)
  a  b  result 
 
 -----------------
@@ -153,7 +153,7 @@ t  f  true
  t  t  false   
  f  t  true   
 
-## Biconditional
+## Biconditional (!(a ^ b))
  a  b  result 
 
 -----------------
