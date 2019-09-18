@@ -4,17 +4,11 @@ title: Truth Tables
 ---
 
 ## Tautology/True
-| a | b | result |
-
-|---|---|--------|
-
-| t | f | true   |
-
-| f | f | true   |
-
-| t | t | true   |
-
-| f | t | true   |
+ a    b   result 
+ t    f    true   
+ f    f    true   
+ t    t    true   
+ f    t    true  
 
 ## Contradiction/False
 | a | b | result |
