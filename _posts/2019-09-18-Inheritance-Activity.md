@@ -8,7 +8,9 @@ title: Inheritence Activity
 1. Child: Knife
 1. Parent: Silverware
 1. Grandparent: Tools
+------------------------------------
 
+#### Given an oven, its inheritance would go as follows:
 1. Child: Oven
 1. Parent: Heater
 1. Grandparent: Electric
