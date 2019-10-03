@@ -7,8 +7,8 @@ title: Grasp Principles
 Shows which class should be responsible for creating objects/instances of a class.
 
 ### 2. Information Expert
--Essentially the Single Responsibility Principle. It doesn't let objects get too bit or confusing. 
--Answers the question of "Which object should have needed behavior?"
+Essentially the Single Responsibility Principle. It doesn't let objects get too bit or confusing. 
+Answers the question of "Which object should have needed behavior?"
 
 ### 3. Low Coupling
 Creates a pattern where your elements have less dependency so that:
