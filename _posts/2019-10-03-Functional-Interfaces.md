@@ -18,6 +18,7 @@ System.out.println(randomValue.get());```
 Function represents a function that accepts one argument and produces a result.
 
 ```Function<Integer,String> converter = (i)-> Integer.toString(i);
+
 System.out.println(converter.apply(3).length());
 ```
 
